@@ -1,0 +1,809 @@
+1) .What will be the output of below mentioned Python Script?
+
+Basicsalary = 55000.56
+
+DA 5000.34
+
+print("My salary is %d" % (Basicsalary+DA)) 
+
+Options are below
+
+TypeError: cannot concatenate 'str' and 'float' objects
+
+My salary is 60000
+
+My salary is 60000.90
+
+"My salary is %d" % (Basicsalary+DA)
+
+2 / 2
+
+2). consider the following statements with respect to what does the following statement do? "seek" function in Python. With 'n' being a positive number
+
+filehandle.seek(n.1)
+
+• Sets the new location to the end of file plus 'n'
+
+Sets the new location to the current position plus 'n'
+
+Sets the new location to n's place
+
+Sets the new location to the beginning of file plus 'n'
+
+3). Consider the following statements with respect to "seek" function in Python. With 'n' being a positive number what does the following statement do?
+
+filehandle.seek(n.1)
+
+Sets the new location to the end of file plus 'n'
+
+Sets the new location to the current position plus 'n'
+
+Sets the new location to n's place
+
+Sets the new location to the beginning of file plus 'n'
+
+4). Identify the metacharacter among these that can be used to make a pattern as a non- greedy expression?
+
+options are below
+
+*
+? 
++
+. 
+
+5. To print the value raj_01 in the  below script, how you frame your print statement
+
+import re Stmt1="Raj:x:1231:raj 01" are.split(':', Stmtl)
+
+
+print (a)(3))
+
+print (Stmt1[2])
+
+print (a)
+
+print (Stmt[3]
+
+6).  Choose the right category according to the classifications made
+Jython, IronPython, Pydev, Django
+
+Jython, IronPython, Django - Python Frameworks
+
+Pydev, Django - Just Python IDEs and not frameworks
+
+Jython, IronPython are flavours of Python
+
+Pydev, Jython, IronPython are flavours of Python
+
+7. What will be the output of below mentioned Python Script?
+
+
+Company =Infosys'+\'31'+\
+'Limited'
+
+print(Company)
+
+Infosys\31\Limited
+
+Infosys31Limited
+
+TypeError: cannot concatenate 'str' and 'int' objects
+
+'Infosys' \ '31' \ 'Limited'
+
+8). Which of the following command is used to open a file "c:\demo.txt in append-mode?
+
+op=open("c:\\demo.txt"."a+")
+
+op=open("c:\\demo.txt","rw+")
+
+op=open("c:\\demo.txt","w+")
+
+op=open("c:\\derno.txt")
+
+9). What will be the output of this Python Script?
+
+Infosys' + \"Technologies'+\'Limited'
+print("Company")
+
+
+Infosys\Technologies\Limited
+
+Infosys TechnologiesLimited
+
+Infosys' + 'Technologies' + \ 'Limited'
+
+10). Which of the following is a correct statement made with respect to Python Functions?
+
+if argument passed is mutable then it follows pass by reference
+
+Any mismatch in parameter's number will throw an Attribute error
+
+A return statement with no arguments is not same as return None
+
+Return statement inside the function is mandatory
+
+12).What will be on output sorting the python list?
+
+num = [1,123,121, 12, 110, 11, 10]
+
+sorted(num)
+
+print(num)
+
+
+[1,123,121,12,110,11,10]
+
+[1.10.110,11,12,121,123]
+
+[1, 10, 11, 12, 110, 121, 123]
+
+Attributeerror: List object has no attribute 'sorted'
+
+13) . Assume that Ram has framed his regular expression like [Aa]bc for pattern matching. Which of the following matches with the pattern mentioned above?
+
+Aabc only
+
+abc only
+
+Abc only
+
+Both abc and Abc
+
+2 / 2
+
+
+14). What will be the output of print statement?
+
+var Python' 
+print(var + "entered")
+
+Pythonentered
+
+Python + entered
+
+TypeError: cannot perform concatenation on objects
+
+Python'entered
+
+15). What will be the output of print statement? 
+
+var =23 
+print(var+'entered') 
+
+23+'entered
+
+23entered
+
+TypeError: cannot concatenate 'str' and 'int' objects
+
+23'+'entered
+
+2 / 2
+
+
+16). Which of these is not a feature of Python?
+
+Platform independent
+
+Licensed
+
+Object Oriented
+
+Interpreted
+
+17).Which of below mentioned string function(s) raises valueerror when search pattern is not found?
+
+find
+
+.rfind
+
+iii, index
+
+iv. rindex
+
+Both I and ll
+
+Both i and iii
+
+Both ill and iv
+
+All the above functions raise a value error exception
+
+16)What will be the output of the following Python function?
+
+Assume the random module has already been imported.
+
+print(random.randrange(4.5.7))
+
+Any value between 4.5 and 7 including 4.5 and 7
+
+Any value between 4.5 and 7 Excluding 7
+
+Error
+
+Any value between 4.5 and 7 Excluding 4.5 and 7
+
+17).A function is defined for accepting 2 parameters. During invocation, if there is only one argument passed, what kind of exception would it raise? 
+
+ValueError
+
+AttributeError
+
+TypeError
+
+KeyError
+
+2 / 2
+
+
+18).What will the output of the Python code?
+
+for i in range(10):
+
+if i ==5:
+
+break
+
+else:
+
+print(i,end="")
+
+else:
+
+print("End")
+
+Options are below
+
+End
+
+012345 End
+
+1234
+
+01234
+
+2 / 2
+
+
+19).Complete the below code to print the value of 3 power of 4?
+
+def power (x, y):
+
+r = 1
+
+for i in range(y):
+
+
+return r
+
+print (power (3, 4))
+
+r=r*i
+
+r=r*r
+
+r=rx
+
+r=ry
+
+3 / 3
+
+
+20). Consider this Python code below. Assume error will occur in access proto function call.
+
+try:
+
+access proto() except AccessError, Logintrror: print ("error occured")
+
+mainblock()
+
+Which of these statements will be true?
+
+prints "error occured" and terminates execution
+
+access proto if raised an exception of AccessError type, It can be handled & LoginError cannot be handle
+
+access proto if raised an exception of either AccessError type or LoginError, both can be handled in the
+
+prints "error occured" and continues with main block irrespective of exceptions
+
+21). What will be the output of this if-elif-else block in Python?
+
+var =0
+
+if var:
+
+print ("I'm in if")
+
+elif var == 0:
+print ("Hello elif 1")
+
+elif var== 0:
+
+print ("Hello elif 2")
+
+else:
+
+print (" in else")
+
+print ("Over")
+
+Hello - elif 1 Over
+
+Hello - elif 2 Over
+
+Hello-elif 1 Hello-elif 2 Over
+
+in else Over
+
+22).Which of the following is a correct statement made, regarding this line of code in Python? def fun1 (farg1, *varg1):
+
+fun1 has no mandate on no. of arguments passed for its successful execution
+
+One mandate argument to be passed for fun1's successful execution
+
+All the arguments passed will be accepted by *varg1
+
+Cannot comment with just one line of code of Python
+
+23).What is the output of this python code?
+ def add_skill("param2): print ((param2))
+
+add_skill('Ruby', 'Python', 'Perl', 'Php')
+
+
+('Ruby', 'Python', 'Perl', 'Php')
+
+('Python', 'Perl', 'Php')
+
+('Php')
+
+('Ruby')
+
+24).In this python code, how many times will error message be printed on the screen?
+
+try:
+
+print (10 *(1/0))
+
+print (203/0)
+
+print (var * 33)
+
+except (ZeroDivisionError, NameError):
+
+print ("Error")
+
+0
+1
+2
+3
+
+2 / 2
+
+
+25)Which kind of argument passing would this code snippet belong to
+
+def add(num1=0, num2=0):
+
+return (num1+num2)
+
+print (add(3)) # Life
+
+Keyword argument
+
+Default argument
+
+Keyword + Default argument
+
+Variable Argument
+
+26).Consider the below mentioned Python code snippet. What will be below its output?
+
+Dic ("2323":"Ram", "4321":"Shan", "99989": "Rony")
+
+
+
+if 2323 not in Dic: print ("in if block") elif "4321" not in Dic: print ("in elif block")
+
+else: print ("in else block")
+
+in elif block
+
+in if block
+
+in else block
+
+Traceback: syntax error in line 2
+
+27).What are the patterns that can be extracted with this 'findall' function?
+
+import re
+
+20
+
+name='Ram_06at1982@gmail.com'
+
+print (re.findall('[\w]+', name)) 
+
+['Ram', '_', '06', 'at', '1982']
+
+['Ram_06at1982]
+
+['Ram_06at1982', 'gmail', 'com']
+
+['Ram', 'gmail', 'com']
+
+28).What are the patterns that can be extracted with this 'findall' function?
+
+import re
+
+name='Ram_06at1982@gmail.com'
+
+print (re.findall('[\d]+', name))
+
+
+['0', '6', '1','9', '8', '2']
+
+['0', '6']
+
+['06', '1982]
+
+[1982]
+
+29)Choose the correct comment that is made on the output of below mentioned Python code.
+
+a ="Adventurous Journey During travelling"
+
+b = a.splitlines (False)
+print (a.replace("","", 3) 
+prin(b) 
+
+Line1: Adventurous Journey During travelling Line 2: [Adventurous journey During travelling
+
+Line1: Adventurous \t Journey \ During it travelling \t Line 2: Adventurous Journey During Travelling
+
+Line1: Adventurous Journey During travelling Line2: [Adventurous', 'Journey', 'During, travelling
+
+Line1: Adventurous Journey During travelling Line 2: AdventurousjourneyDuringtravelling
+
+3 / 3
+
+
+30)What is the output of the following Python code?
+
+class Parent:
+
+def Test(self):
+
+print("Alpha test")
+
+class Child(Parent):
+
+pass
+
+ob1 Parent()
+
+ob2 = Child()
+
+ob1.Test()
+
+ob2.Test()
+
+Alpha test Alpha test
+
+Alpha test None
+
+None None
+
+Syntax error
+
+31).What is the output of the following Python code? One answer
+
+
+class Test:
+
+def _init_(self):
+
+self.bool = True
+
+def prnt(self):
+
+if self.bool:
+
+print('Hi')
+
+self.bool = False
+
+else:
+
+print('Bye")
+
+class Alpha(Test):
+
+def init__(self):
+
+self.val = '555'
+
+def disp(self):
+
+print(self.val)
+
+t1 Alpha()
+
+t1.prnt()
+
+Hi
+
+555
+
+Bye
+
+Cause an error
+
+2 / 2
+
+
+32)Which of the following statements in Python are TRUE?
+
+
+(i) Class variable can be accessed via the name of the class
+
+(ii) Class variable can NOT be accessed via the name of the class
+
+(iii) Class variable can be accessed with an object of a class.
+
+(iv) Class variable cannot be accessed with an object of a class
+
+
+Both (i) and (iii)
+
+Both (ii) and (iv)
+
+Both (i) and (iv)
+
+Both (ii) and (iii)
+
+33)The Python code below shows the definition of a Laptop Class takale
+
+class Laptop:
+
+definit_(self, capacity):
+
+self.capacity =capacity
+
+self.color 'black'
+
+def change_color(self, new_color):
+
+self.color = new_color
+
+Which of the following options create an instance of Laptop class and change the color of the laptop to white correctly
+
+
+
+laptop Laptop() laptop.change_color('white')
+
+laptop Laptop(2000, 'green') laptop.change_color(self, 'white')
+
+laptop Laptop(2000) laptop.change_color(self, 'white')
+
+laptop Laptop(2000) laptop.change_color('white')
+
+34).What is the output of the Python code given below?
+
+class NumTest:
+
+def _init_(self):
+
+self.val = 1
+
+def Test(self):
+
+if self.val == 1:
+
+print('Harry')
+
+self.val 2
+
+else:
+
+print('met')
+
+class Assign(NumTest):
+
+def _init__(self):
+
+NumTest._init__(self)
+
+self.data = 'Sally!'
+
+def Disp(self):
+
+print(self.data)
+
+ON NumTest()
+
+ON.Test()
+
+OP Assign()
+
+OP.Test()
+
+Harry Harry
+
+Harry Sally
+
+Harry None
+
+Results in an error
+
+35)What is the output of the following Python code?
+
+class Test:
+
+def _init_(self):
+
+self.bool True
+
+def prnt(self):
+
+if self.bool:
+
+print('Hi')
+
+self.bool - False
+
+else: print('Bye')
+
+class Alpha(Test):
+
+def init (self):
+
+self.val = '555'
+
+def disp(self):
+
+print(self.val)
+
+t1 = Test()
+
+t1.prnt()
+
+t1.prnt()
+
+12 Alpha()
+
+12.disp()
+
+Hi Bye 555
+
+Hi 555
+
+Hi 555 Bye
+
+Bye 555
+
+36)Consider the Python code below:
+
+class Test:
+
+def _init__(self): self.name = 'Test'
+
+def getName(self): return self.name
+
+t = Test()
+
+print(t.getName()) #1
+
+print(Test.getName(t)) #2
+
+What is the ouput of the above code?
+
+Test
+
+Test Test
+
+Error: line marked as #1
+
+Error: line marked as #2
+
+36)What will be the output of the following Python code?
+
+class Test:
+
+__sum=0
+
+def disp(self):
+
+self.__sum +=1
+
+print(self.__sum)
+
+ob1= Test()
+
+ob1.disp()
+
+obl.disp()
+
+print(ob1. Test_sum) #line a
+
+1 1 1
+
+Syntax Error in "line a"
+
+1 2 3
+
+1 2 2
+
+3 / 3
+
+
+37). What will be the output of the following Python code?
+
+class MultiplierClass:
+
+def _init_(self, factor):
+
+self.factor factor
+
+def multiplier(self, argument):
+
+return argument
+
+self.factor
+
+
+def  generate_multiplier(factor):
+
+return MultiplierClass(factor).multiplier
+
+twice generate_multiplier (2)
+
+print(twice(5))
+
+twice(5)
+
+2
+
+10
+
+25
+
+38).Consider the Class definition in Python below:
+
+
+class Card():
+
+"""represents a standard playing card.***
+
+suit_names ['Clubs
+
+', 'Diamonds", "Hearts', 'Spades']
+
+rank nomes
+
+["Ace', '2', '3', '4', '5116117','8', '9", "10", "Jack', 'Queen', '
+
+def __init_(self, suit-B, rank=2):
+
+self.suit suit
+
+self.rank rank
+
+def str (self):
+
+return "As of Ss (Card.rank_names(self.rank],Card.suit_names[self.suit))
+
+Which of the following option will give the output as "Queen of Hearts"?
+
+cobj = Card(3.12) print(cobj)
+
+cobj=Card(2.11) str(cobj)
+
+print(Card(2.11)
+
+print(Card(3,12))
+
+
