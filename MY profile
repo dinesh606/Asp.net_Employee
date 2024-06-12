@@ -1,0 +1,47 @@
+Total work experience: 2.5 Years.
+Experienced Azure Data Engineer having full hands-on experience on Azure data factory, Databricks, synapse, logic app, functions, KeyVault, ServiceBus etc.
+
+Experience Summary:
+
+Build Data pipelines on Azure Data Factory for ingesting, transforming and loading data.
+Develop ETL process(PySpark code) on Azure Databricks.
+Create and manage Databricks clusters.
+Data Warehousing in Azure Synapse Analytics.
+Creation of Key Vault secrets, Logic workflows, Functions in Azure.
+Collaborated with cross-functional teams to understand business requirements and provide technical solutions that align with organizational goals.
+Technical Skills:
+ETL Tools : Azure Data Factory, Azure Databricks, Azure Synapse Analytics.
+Data Warehouse: Azure Synapse Analytics.
+Pipeline Automation tools: Azure service bus, Azure Logic App, Azure Function App.
+Programming Language: Python, SQl 
+Data governance: Microsoft Purview
+Version Control: Git
+
+Certifications:
+Azure Data Engineering DP-203
+Azure Fundamentals AZ-900
+
+Qualification:
+Bachelor of Engineering (2016-2020) in CS from, Mumbai University .
+
+
+Project experience
+
+Project: E&Y Solution Onboarding
+Description : Develop and Onboard new solutions to the Data product as per client/solution requirement. 
+Build pipelines to automate data extraction from customer source into Azure Data Lake then processing the ingested data in different data processing layers and  transforming the ingested data as per the requirement. Loading the transformed data into Azure data warehouse (Azure synapse) where it can be consumed in different ways.
+
+Tools/Technology: Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure logic apps, Azure function App, Azure service bus, Azure Key Vault.
+
+Experience:
+
+Built Data pipelines in Azure Data Factory for data ingestion, transformation and loading.
+Developed Pyspark code in Databricks for the ETL process.
+Developed data transformation code and data quality checks for the data processing layers(Bronze, Silver, Gold).
+Implemented audit mechanism to capture the input data records in audit tables.
+Implemented email notification for success and failure at each layer.
+Created and managed SQL tables, Views, Stored Procedures in Azure Synapse Analytics.
+Created and managed containers in Azure Data Lake Storage as per the requirement.
+Created required Key Vault secrets, Logic workflows, Functions in Azure.
+Built/Modified Azure service bus, message queue, topics for pipeline automation.
+
